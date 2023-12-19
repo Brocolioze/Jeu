@@ -112,7 +112,12 @@ Pour vous faciliter la tache vous pouves y acceder manuellement dans l'onglet **
 Ce qui donne :
 ![image](https://github.com/Brocolioze/Jeu/assets/49524886/4ee927cd-2cde-4f4f-9ac3-6e5e1fa3de26)
 
-	
+
+Lien de la vidéo :
+
+https://drive.google.com/file/d/1-G_2ozFrLLp9ZmJWfrF0thQFRr7HuZ8K/view?usp=sharing
+
+ENJOY!!!
 
 
 
