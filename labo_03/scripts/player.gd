@@ -2,7 +2,7 @@ extends CharacterBody2D
 
 var enemy_inatack_range = false
 var enemy_attack_cooldown = true
-var health = 160
+var health = 220
 var player_alive = true
 
 var attack_ip = false

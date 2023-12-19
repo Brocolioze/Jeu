@@ -446,7 +446,7 @@ script = SubResource("GDScript_t4301")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 position = Vector2(1, -13)
 sprite_frames = SubResource("SpriteFrames_ex2fq")
-animation = &"death"
+animation = &"side_idle"
 offset = Vector2(0, -15)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
