@@ -66,6 +66,7 @@ Les images sont superposées les unes sur les autres ceux qui donnent un effet d
 Il s'agit du même principe pour notre joueur:
 
 ![image](https://github.com/Brocolioze/Jeu/assets/49524886/ce9ae12e-33bb-449d-85f2-6238a268514d)
+![image](https://github.com/Brocolioze/Jeu/assets/49524886/faa4ab5e-a16f-4d2e-8534-3f7df22b4548)
 
 Il est recommandé d'effectuer chaque Sprite pour chaque mouvement et chaque direction du personnage pour vous faciliter dans le code.
 A part si vous etes des génies mais j'en doute.
@@ -112,9 +113,30 @@ Pour vous faciliter la tache vous pouves y acceder manuellement dans l'onglet **
 Ce qui donne :
 ![image](https://github.com/Brocolioze/Jeu/assets/49524886/4ee927cd-2cde-4f4f-9ac3-6e5e1fa3de26)
 
+## Les difficultés et problemes recontrés:
 
-Lien de la vidéo :
+La plupart des problemes que j'ai rencontré ont été d'animé le joueur avec les Sprites, les attaques ainsi que le débogage car, comme vous savez un code informatique fonctionne bien dépendamment de sa version
+de logiciel dans lequel il a été concu.Ce qui veut dire que meme si votre code un parfait il se peut que votre programme CRASH a cause d'une nouvelle ou ancienne version de votre logiciel de développement.
+Il se peut même que des noms de fonctions aient été changés ou supprimés avec la version de votre langage.
+L'outils de débogage doit etre acquis pour pouvoir lire les erreurs et pour y apporté un solution.
+Je vous montre un screen de tous mes tests de scripts fonctionnel mais non adapté pour mon jeu car il faut changé des parametres de configuration ce qui fait planté le pogramme a moins de tout re-codé.
 
+![image](https://github.com/Brocolioze/Jeu/assets/49524886/3c0950eb-8b2f-4e7c-aa4a-a753533a7896)
+
+![image](https://github.com/Brocolioze/Jeu/assets/49524886/259fa14c-b40c-4307-8769-497374fb7814)
+
+Eh oui ! Sa en fait beaucoup pour développez un jeu !! 
+Pour ainsi dire, l'informatique a évolué à une très grande vitesse. Vous n'avez donc plus besoin de vous casser la tete pour régler vos problèmes.
+Les intelligences artificielles tel que OpenAi ou ChatGPT peuvent vous aidés et connaissent tout vos problemes.
+
+Le dégogage rendu plus facile [ChatGPT]([https://natureofcode.com/book/chapter-1-vectors/](https://chat.openai.com/)).
+
+
+Et pour fini voici quelques liens utiles pour votre développement:
+
+https://dev.to/christinec_dev/lets-learn-godot-4-by-making-an-rpg-part-22-simple-shopkeeper-2efl
+
+Extrait vidéo de mon jeu:
 https://drive.google.com/file/d/1-G_2ozFrLLp9ZmJWfrF0thQFRr7HuZ8K/view?usp=sharing
 
 ENJOY!!!
