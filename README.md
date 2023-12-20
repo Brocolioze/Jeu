@@ -129,8 +129,7 @@ Eh oui ! Sa en fait beaucoup pour développez un jeu !!
 Pour ainsi dire, l'informatique a évolué à une très grande vitesse. Vous n'avez donc plus besoin de vous casser la tete pour régler vos problèmes.
 Les intelligences artificielles tel que OpenAi ou ChatGPT peuvent vous aidés et connaissent tout vos problemes.
 
-Le dégogage rendu plus facile [ChatGPT]([https://natureofcode.com/book/chapter-1-vectors/](https://chat.openai.com/)).
-
+Le débogage rendu plus facile [ChatGPT](https://chat.openai.com/).
 
 Et pour fini voici quelques liens utiles pour votre développement:
 
